@@ -33,6 +33,8 @@ computerChoice.innerHTML = computer;
 
 
 
+
+
 function getResult() {
   if (computer == player) {
     result = "gelijkspel";
